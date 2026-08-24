@@ -43,7 +43,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Deep-0208/Quora-Lite.git
+git clone https://github.com/Deep-0208/quora-lite.git
 cd Quora-Lite
 
 # Install dependencies
